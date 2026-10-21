@@ -8,7 +8,6 @@
 georgi = {
     "role": "Network Specialist / NOC Engineer",
     "based_in": "Bulgaria (remote)",
-    "studying": "MSc, Computer Systems",
     "building": "Pulsewatch: multi-region uptime monitoring",
 }
 ```
