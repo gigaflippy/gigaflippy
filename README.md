@@ -19,9 +19,9 @@ georgi = {
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Building with
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![raylib](https://img.shields.io/badge/raylib-000000?style=for-the-badge&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-# 🛠️ Featured Project
+# 🛠️ Featured Projects
 
 ### [Pulsewatch](https://github.com/gigaflippy/Firstproject)
 A multi-region uptime and latency monitor, run like a production service on a local Kubernetes cluster.
@@ -35,5 +35,17 @@ deployed by:  Terraform (kind cluster) ─► Argo CD (GitOps) ─► Kustomize 
 tested by:    GitHub Actions spins up a real cluster on every PR
 ```
 
+### [Valor at What Cost](https://github.com/gigaflippy/valor-at-what-cost)
+A top-down bullet-hell roguelike in the spirit of Enter the Gungeon, written from scratch in C++17 with raylib: no engine, no asset files.
+
+```
+data/*.json (guns, enemies, floors) ──► C++ game core ──► 480×270 pixel canvas
+                                             │             3/4 walls · outlines · dynamic lighting
+                                             └──► procedural floors · bullet patterns · synthesised SFX
+
+built by:     CMake + FetchContent (raylib, nlohmann/json)
+tested by:    GitHub Actions builds Linux and Windows on every push
+```
+
 ### My Languages and Tools
-[![Tools](https://skillicons.dev/icons?i=linux,bash,py,fastapi,ansible,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,git)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,windows,bash,py,cpp,cmake,fastapi,ansible,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,git)](https://skillicons.dev)
