@@ -44,7 +44,8 @@ data/*.json (guns, enemies, floors) ──► C++ game core ──► 480×270 p
                                              └──► procedural floors · bullet patterns · synthesised SFX
 
 built by:     CMake + FetchContent (raylib, nlohmann/json)
-tested by:    GitHub Actions builds Linux and Windows on every push
+tested by:    play-tested locally on Linux and Windows
+shipped by:   GitHub Actions builds both on every push
 ```
 
 ### My Languages and Tools
