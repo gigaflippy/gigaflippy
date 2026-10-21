@@ -32,7 +32,8 @@ probes (FastAPI, per region) ──► Prometheus ──► alerts (consensus ac
                                      └──► Grafana dashboard
 
 deployed by:  Terraform (kind cluster) ─► Argo CD (GitOps) ─► Kustomize overlays
-tested by:    GitHub Actions spins up a real cluster on every PR
+tested by:    run and tested locally on a kind Kubernetes cluster
+verified by:  GitHub Actions spins up a real cluster on every PR
 ```
 
 ### [Valor at What Cost](https://github.com/gigaflippy/valor-at-what-cost)
