@@ -8,6 +8,7 @@
 georgi = {
     "role": "Network Specialist / NOC Engineer",
     "based_in": "Bulgaria (remote)",
+    "tinkering": "ESP32, PCB design, homelab, cyberdecks",
 }
 ```
 
