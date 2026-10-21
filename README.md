@@ -1,14 +1,12 @@
 > *Keeping systems up, and knowing the moment they're not.*
 
-![Profile views](https://komarev.com/ghpvc/?username=gigaflippy&color=326CE5&style=flat-square&label=profile+views)
-
 ## About Me
 
 ```python
 georgi = {
     "role": "Network Specialist / NOC Engineer",
     "based_in": "Bulgaria (remote)",
-    "status": "thinkering...",
+    "status": "tinkering...",
 }
 ```
 
