@@ -21,7 +21,7 @@ georgi = {
 
 # 🛠️ Featured Projects
 
-### [Pulsewatch](https://github.com/gigaflippy/Firstproject)
+### [Pulsewatch](https://github.com/gigaflippy/pulsewatch)
 A multi-region uptime and latency monitor, run like a production service on a local Kubernetes cluster.
 
 ```
