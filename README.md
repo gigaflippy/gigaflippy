@@ -18,6 +18,7 @@ georgi = {
 
 ### Building with
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![raylib](https://img.shields.io/badge/raylib-000000?style=for-the-badge&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![kind](https://img.shields.io/badge/kind-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Make](https://img.shields.io/badge/Make-6D8086?style=for-the-badge&logo=gnu&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
 
 # 🛠️ Featured Projects
 
@@ -48,4 +49,4 @@ shipped by:   GitHub Actions builds both on every push
 ```
 
 ### My Languages and Tools
-[![Tools](https://skillicons.dev/icons?i=linux,windows,bash,py,cpp,cmake,fastapi,ansible,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,git)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,windows,bash,py,cpp,cmake,fastapi,ansible,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,sqlite,git)](https://skillicons.dev)
