@@ -1,4 +1,10 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1026,50:1b2a6b,100:6a3fd1&text=Georgi&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Network%20%2F%20NOC%20Engineer%20%C2%B7%20Infrastructure%20Automation&descAlignY=58&descSize=18&animation=fadeIn" alt="Georgi — Network / NOC Engineer · Infrastructure Automation" width="100%" />
+
 > *Keeping systems up, and knowing the moment they're not.*
+
+</div>
 
 ## About Me
 
@@ -50,3 +56,13 @@ shipped by:   GitHub Actions builds both on every push
 
 ### My Languages and Tools
 [![Tools](https://skillicons.dev/icons?i=linux,windows,bash,py,cpp,cmake,fastapi,ansible,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,sqlite,git)](https://skillicons.dev)
+
+## Contribution City
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblue.svg" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D skyline of my GitHub contributions, regenerated daily by a GitHub Action" />
+</picture>
+
+<sub>Rebuilt every day by <a href=".github/workflows/profile-3d.yml">a GitHub Action</a> in this repo, using <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>.</sub>
