@@ -61,7 +61,7 @@ shipped by:   GitHub Actions builds both on every push
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblue.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg" />
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D skyline of my GitHub contributions, regenerated daily by a GitHub Action" />
 </picture>
 
